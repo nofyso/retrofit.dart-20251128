@@ -25,7 +25,7 @@ dependencies:
     git:
       url: https://github.com/nofyso/retrofit.dart-20251128
       path: retrofit
-      ref: main
+      ref: master
   source_gen: '>=3.1.0 <5.0.0'
 
 dev_dependencies:
